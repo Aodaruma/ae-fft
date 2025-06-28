@@ -1,0 +1,8 @@
+[package]
+name = "ae-fft"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+after-effects = "0.2.1"
+rustfft = "6.4.0"
